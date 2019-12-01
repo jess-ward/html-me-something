@@ -1,0 +1,71 @@
+body {
+   width: 100%;
+	max-width: 1024px;
+   margin: 0 auto;
+   color: #000000;
+   background-color: teal; 
+   font-family: sans-serif;
+}
+
+header,
+main,
+footer {
+	background-color: whitesmoke;
+	font-size: 1.6em;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+header p {
+   text-align: center;
+   font-style: italic;
+}
+
+main h2 {
+	padding: 0.625em 0 0.625em 0.625em;
+}
+
+section {
+	margin: 1.875em 0;
+}
+
+img {
+   width: 640px;
+   height: 427px;
+   display: block;
+}
+
+p {
+      padding: 1.25em;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+figcaption {
+   font-style: italic;
+}
+
+.happyhour {
+   text-align: center;
+   font-style: oblique;
+   color: teal;
+}
+
+#whatilike {
+   text-align: center;
+}
+
+nav ul li {
+	display: block;
+	margin-right: 1em;
+	font-size: 0.75em;
+}
